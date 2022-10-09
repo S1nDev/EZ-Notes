@@ -1,0 +1,12 @@
+Input these commands into the command prompt to get an executable
+file (.exe) from an executable jar file (.jar) to run the main class
+in Window.java:
+
+[1].   cd (path\to\EZ Notes\folder)\EZ Notes
+
+[2].   javac -d . *.java
+
+[3].   jar -cmf manifest.mf window.jar .
+
+If any errors result from these commands, compile and run Window.java
+in a separate IDE.
