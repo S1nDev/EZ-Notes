@@ -1,3 +1,8 @@
+
+![alt text](https://github.com/S1nDev/EZ-Notes/blob/main/images/ez.png)
+
+
+
 -----------------------------------------------------------------
 Welcome to EZ-Notes! ~A complete guide for new users~
 -----------------------------------------------------------------
