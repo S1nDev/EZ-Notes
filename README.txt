@@ -1,6 +1,4 @@
-
-![alt text](https://github.com/S1nDev/EZ-Notes/blob/main/images/ez.png)
-
+![alt text](https://github.com/S1nDev/Learn-Zilla/blob/main/learnzilla.png)
 
 
 -----------------------------------------------------------------
