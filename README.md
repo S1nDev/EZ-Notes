@@ -4,7 +4,7 @@
 
 
 -----------------------------------------------------------------
-Welcome to EZ-Notes! ~A complete guide for new users~
+Welcome to EZ-Notes! A complete guide for new users
 -----------------------------------------------------------------
      Topics: 
        1.Login System
